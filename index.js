@@ -2,9 +2,9 @@ function takeANumber(katzDeliLine){
   // katzDeliLine.push(name);
   // return `Welcome, ${katzDeliLine.slice(-1)}. You are number ${katzDeliLine.length} in line.`;
   if(katzDeliLine.length === 0){
-    re
-    
-    
+    return "There is nobody waiting to be served!"
+  }else{
+    return `Currently serving ${katzDeliLine}.`
   }
   
   
