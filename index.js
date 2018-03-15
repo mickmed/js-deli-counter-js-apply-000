@@ -1,6 +1,9 @@
-function takeANumber(katzDeliLine, name, ticket){
+function takeANumber(katzDeliLine){
   // katzDeliLine.push(name);
   // return `Welcome, ${katzDeliLine.slice(-1)}. You are number ${katzDeliLine.length} in line.`;
+  
+  
+  
   
 }
 
